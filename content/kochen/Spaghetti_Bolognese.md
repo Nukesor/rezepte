@@ -86,3 +86,4 @@ Die Nudeln mit der Soße servieren, und nach Bedarf mit Paremsan aufpeppen.
 ## Tips
 
 - Viele finden noch mehr Rotwein gut, probiert gerne rum.
+- Alternative "Originale" bolognese: https://www.chefkoch.de/rezepte/772011180069862/Die-echte-Sauce-Bolognese.html
