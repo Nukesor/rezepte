@@ -62,7 +62,7 @@ Fertig Angebratenes auch einfach direkt in den Topf packen.
 
 1. Das Tomatenmark kurz anbraten und in den Topf packen.
 2. Olivenöl in die Pfanne geben und die Zwiebeln/Knoblauch gut anschmoren (10 min bei mittlerer Hitze. Im Zweifel lieber etwas weniger heiß).
-3. Zwiebeln raus und jetzt den Speck gut anbraten.
+3. Zwiebeln raus und jetzt den Speck gut anbraten. Der Speck sollte ne gute Bräunung für die Röstaromen haben.
 4. Den Speck aus der Pfanne holen und in den Topf geben
 5. Neues Öl in die Pfanne geben und richtig heiß werden lassen.
 6. Das Hack anbraten.
@@ -70,6 +70,7 @@ Fertig Angebratenes auch einfach direkt in den Topf packen.
    **Noch nicht umrühren**, sondern auf mittlere Hitze schalten und das Fleisch 4-5 Minuten anbraten lassen.
    Während der 4-5 Minuten schon mal die Gewürzmischung auf dem Hack verteilen.
    Danach wenden und umrühren, bis es gleichmäßig angebraten ist und krümelig ist.
+   Das Hack sollte schon ne richtig schöne Bräunung haben, die Röstaromen sind wichtig.
 7. Nochmal richtig hochschalten und mit dem Wein ablöschen.
    Solange köchen lassen, bis der Wein größtenteils verdampft ist.
    Danach in den Topf geben.
