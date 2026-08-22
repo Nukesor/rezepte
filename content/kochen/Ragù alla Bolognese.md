@@ -1,5 +1,5 @@
 +++
-title = "Spaghetti mit Bolognese"
+title = "Ragù alla Bolognese"
 description = "Fleischig, würzige Soße für Nudeln"
 weight = 0
 
