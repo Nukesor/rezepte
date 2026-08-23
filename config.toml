@@ -11,9 +11,9 @@ compile_sass = true
 build_search_index = true
 
 taxonomies = [
-  { name = "authors", rss = true },
-  { name = "tags", rss = true },
-  { name = "duration", rss = true },
+  { name = "authors", feed = true },
+  { name = "tags", feed = true },
+  { name = "duration", feed = true },
 ]
 
 # Syntax highlighting configuration

@@ -1,0 +1,37 @@
+{% component navigation(page, breadcrumbs: bool = true, include_site: bool = true) %}
+    {% if breadcrumbs %}
+        <div class="breadcrumbs">
+            {% for parent in page.ancestors %}
+                {% set s = get_section(path=parent, include_pages=false) %}
+                <a href="{{s.permalink}}">
+                    {% if not loop.first %}→{% endif %} {{s.title}}
+                </a>
+            {% endfor %}
+            {% if include_site %}
+                <div class="current-page">→ {{ page.title }}</div>
+            {% endif %}
+        </div>
+    {% endif %}
+    <div class="navigation-bar">
+        <div class="navigation-button">
+            <a href="/tags">Tags</a>
+        </div>
+        <div class="navigation-button">
+            <a href="/authors">Authors</a>
+        </div>
+    </div>
+{% endcomponent navigation %}
+
+{% component responsive_image(path: string, alt: string) %}
+{% set large = resize_image(path=path, height=4000, width=960, op="fit") %}
+{% set medium = resize_image(path=path, height=4000, width=768, op="fit") %}
+{% set small = resize_image(path=path, height=4000, width=512, op="fit") %}
+<div class="responsive-picture">
+    <picture>
+        <source srcset="{{ large.url }}" media="(min-width: 768px)">
+        <source srcset="{{ medium.url }}" media="(min-width: 512px)">
+        <source srcset="{{ small.url }}" media="(max-width: 512px)">
+        <img src="{{ large.url }}" style="width:auto;" alt="{{ alt }}">
+    </picture>
+</div>
+{% endcomponent responsive_image %}

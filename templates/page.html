@@ -5,7 +5,7 @@
 {% endblock title %}
 
 {% block nav %}
-    {{ macro::navigation(page=page) }}
+    {{<navigation page={page} />}}
 {% endblock nav %}
 
 
@@ -15,7 +15,7 @@
             <span> 
             <i class="far fa-edit"></i> By
             {% for author in page.taxonomies.authors %}
-                <a href="{{ get_taxonomy_url(kind="authors", name=author) | safe }}" >{{ author }}</a>
+                <a href="{{ get_taxonomy_url(kind="authors", term=author) | safe }}" >{{ author }}</a>
             {% endfor %}
             </span>
             <br>
@@ -30,7 +30,7 @@
             <span>
             <i class="fas fa-tags"></i>
             {% for tag in page.taxonomies.tags %}
-                <a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}" >
+                <a href="{{ get_taxonomy_url(kind="tags", term=tag) | safe }}" >
                     {{ tag }},
                 </a>
             {% endfor %}

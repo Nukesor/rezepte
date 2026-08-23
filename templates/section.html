@@ -2,14 +2,14 @@
 
 {% block header %}
     {{ config.title }} | {{ section.title }}
-{% endblock title %}
+{% endblock header %}
 
 {% block title %}
     {{ section.title }}
 {% endblock title %}
 
 {% block nav %}
-    {{ macro::navigation(page=section) }}
+    {{<navigation page={section} />}}
 {% endblock nav %}
 
 {% block content %}
