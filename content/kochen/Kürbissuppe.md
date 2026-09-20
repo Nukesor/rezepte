@@ -19,20 +19,16 @@ authors = ["Nukesor"]
 1 daumengroßes Stück Ingwer
 2 normale Zwiebeln
 800ml (feste) Kokosmilch
-1 Liter Gemüsebrühe
-1 Limette
-2EL Butter
-
-Optional für mehr Thai:
-1EL Currypaste
-1/2TL Currypulver
-Koriandergrün zum Garnieren
+750ml Liter Gemüsebrühe
+Saft von ~1/4 Limette
 
 Gewürze:
 Ein wenig Salz
 Viel Pfeffer
 Muskatnuss
-(Sojasauce (Low-sodium))
+1/2TL Currypulver
+5-6 Blätter Thaibasilikum
+Potentiell Koriandergrün zum Garnieren
 
 Mögliche Beilage:
 - Baguette
