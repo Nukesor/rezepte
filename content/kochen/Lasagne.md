@@ -1,18 +1,18 @@
 +++
-title = "Spaghetti mit Bolognese"
-description = "Fleischig, würzige Soße für Nudeln"
+title = "Lasagne"
+description = "Einfach geil"
 weight = 0
 
 [extra]
 duration = "45 min"
 
 [taxonomies]
-tags = ["Pasta", "Deftig"]
+tags = ["Pasta", "Deftig", "Auflauf"]
 authors = ["Nukesor"]
 +++
 
-<div class="image" alt="Spaghetti Bolognese">
-    <img src="/kochen/Spaghetti_Bolognese.jpg" style="width:auto;"></img>
+<div class="image" alt="Lasagne">
+    <img src="/kochen/Lasagne.jpg" style="width:auto;"></img>
 </div>
 
 ## Zutaten für 6-8 Personen:
