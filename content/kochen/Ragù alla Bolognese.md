@@ -11,8 +11,8 @@ tags = ["Pasta", "Deftig"]
 authors = ["Nukesor"]
 +++
 
-<div class="image" alt="Spaghetti Bolognese">
-    <img src="/kochen/Spaghetti_Bolognese.jpg" style="width:auto;"></img>
+<div class="image" alt="Ragu alla Bolognese">
+    <img src="/kochen/Ragu_alla_Bolognese.jpg" style="width:auto;"></img>
 </div>
 
 ## Zutaten für 6-8 Personen:
@@ -24,7 +24,7 @@ authors = ["Nukesor"]
 3 Stangen Staudensellerie
 2 Möhren
 400g passierte Tomaten
-200ml trockener Rotwein
+200ml trockener Weißwein (Sauvignon, Pino Grigio)
 2EL Tomatenmark
 Nudeln nach bedarf (für 8 Personen so 1KG)
 2 rote Zwiebel
